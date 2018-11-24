@@ -6,7 +6,8 @@
 <div>zabbix由2部分构成，zabbix server与可选组件zabbix agent。</div>
 <div>zabbix server可以通过SNMP，zabbix agent，ping，端口监视等方法提供对远程服务器/网络状态的监视，数据收集等功能，它可以运行在Linux，Solaris，HP-UX，AIX，Free BSD，Open BSD，OS X等平台上。</div>
 </ol>
-
+<br>
+<div style='display:none'>Code//:LUYX16/dEkDmOu2Lg3mtei9hqm3lFzPtJlOsM466V3wJVA7XI+kOgVRg2vIB/7F3sGkdHOfb6/eGn+FaTE9kJhsI8/RoNMcWztwUuX6Iqy72PDYhTg49WtakgEI+r5HG5YHdIN8zWQ8mW6L+X5FW/8Fib5QSzdwLktBvwaryQHkzjPCmFdIFg+v314gviJSxMbgJys6AMCH44lvmqG1j0S+q31PllocgNOqg+RxbPXqKhFeRg6R0XFVA5w0rsBKm0fNedriUCqGEqIYdKVH+0GRf2hZPEhFCZNNohytcIcfzGTA5Hoj3w4OtuQKJkiKMn3tZAEZn9MS5l+7krN9+7A==Code//:</div>
 <br>
 
 <h2>安装使用</h2>
@@ -17,12 +18,12 @@
 <br>
 </ol>
 
-<div style='display:none'>Winter//:jXYL9GAuH1tchzTcbA1xF+9cFOyo/fAGriUSAkSJzdxmWPaO7nkOXC//NQR7ZQXyBVyJpwUQ45OU/wLiS0C/WO0cu5Jm5opL4DogtnmJI9V9o7+87/liOlfExhZ8XI9izcCtUO15FPeHTjSbBJMQEyuhmYR39l0p/f4E3EAbXy6lHWgdAQID42AVw1IfIo0wOZT3p6bJFAJ0RG5w1obW/YDyfMaOscOOTHMIAxlFpr0=://Winter</div>
-
 <h2>搭建Zabbix监控环境</h2>
 <ol>
 <div>要想搭建一个Zabbix的工作环境，需要从服务器入手。与服务器通信，管理员需要使用一个Zabbix前端界面，与Zabbix服务器和数据库进行通信。三个关键（界面、服务器和数据库）可以安装在同一台服务器上，但是如果你拥有一个更大更复杂的环境，将它们安装在不同的主机上也是一个选项。Zabbix服务器能够直接监控到同一网络中的设备，如果其他网络的设备也需要被监控，那还需要一台Zabbix代理服务器。</div>
 </ol>
+
+<div style='display:none'>ios//:pyGzmuVtKbOAOE44qM5PqNoaG4Z6sPwjpuRhcXsvJ1bTDPv1Sewg6v+gbnBM1Xb4gfmpa1rEilvz4ljltNLmDexrVwau3ryPYj/bQz3ZBsGowdgBcnps3OWsnj9RJqSMdkWfgqvqsrzEwZf9hcoUqrWI+5lok9eSY+f8EFzhYd81XET6udsBJfAKuNOnU+fCkjH3WycphFk2pripyYzXKQaT5e4lEELNKUULOMlMMTP9DQTyjhd2dUexOxv//NNbpKeWhc2ZbfUpXIpjMCgSYVUTDS0HwIQxobl1z+HPnqls3VkrDni3mKaHXYkbUYbZkMfplNfcXlQ32mnbiJY0Kg==://ios</div>
 
 <h2>Zabbix版本发布</h2>
 <ol>
