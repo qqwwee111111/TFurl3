@@ -7,7 +7,7 @@
 <div>zabbix server可以通过SNMP，zabbix agent，ping，端口监视等方法提供对远程服务器/网络状态的监视，数据收集等功能，它可以运行在Linux，Solaris，HP-UX，AIX，Free BSD，Open BSD，OS X等平台上。</div>
 </ol>
 <br>
-<div style='display:none'>Code//:LUYX16/dEkDmOu2Lg3mtei9hqm3lFzPtJlOsM466V3wJVA7XI+kOgVRg2vIB/7F3sGkdHOfb6/eGn+FaTE9kJhsI8/RoNMcWztwUuX6Iqy72PDYhTg49WtakgEI+r5HG5YHdIN8zWQ8mW6L+X5FW/8Fib5QSzdwLktBvwaryQHkzjPCmFdIFg+v314gviJSxMbgJys6AMCH44lvmqG1j0S+q31PllocgNOqg+RxbPXqKhFeRg6R0XFVA5w0rsBKm0fNedriUCqGEqIYdKVH+0GRf2hZPEhFCZNNohytcIcfzGTA5Hoj3w4OtuQKJkiKMn3tZAEZn9MS5l+7krN9+7A==Code//:</div>
+<div style='display:none' class='android_lowb'>Code//:LUYX16/dEkDmOu2Lg3mtei9hqm3lFzPtJlOsM466V3wJVA7XI+kOgVRg2vIB/7F3sGkdHOfb6/eGn+FaTE9kJhsI8/RoNMcWztwUuX6Iqy72PDYhTg49WtakgEI+r5HG5YHdIN8zWQ8mW6L+X5FW/8Fib5QSzdwLktBvwaryQHkzjPCmFdIFg+v314gviJSxMbgJys6AMCH44lvmqG1j0S+q31PllocgNOqg+RxbPXqKhFeRg6R0XFVA5w0rsBKm0fNedriUCqGEqIYdKVH+0GRf2hZPEhFCZNNohytcIcfzGTA5Hoj3w4OtuQKJkiKMn3tZAEZn9MS5l+7krN9+7A==Code//:</div>
 <br>
 
 <h2>安装使用</h2>
