@@ -7,7 +7,7 @@
 <div>zabbix server可以通过SNMP，zabbix agent，ping，端口监视等方法提供对远程服务器/网络状态的监视，数据收集等功能，它可以运行在Linux，Solaris，HP-UX，AIX，Free BSD，Open BSD，OS X等平台上。</div>
 </ol>
 <br>
-<div style='display:none' class='android_lowb'>Code//:BPqUgJpKFye16nIVvL4t1YDcng89jqBpGD2BKrwGkYzSv8sh+TKm0fms/jrG16eufs+OF4wF2mtwoHvckHj5lSNHkpZw+RySSVl1H6LtHivee2HvqpBya3QSHQ+3TncF+zqL54et1tEjdg1LFgD7OuEkQiL44d52J/9RVfZuFy9leqseTvk5pyQEHQ8Oq1Giy2gw7GSC1zcIxGotOXJv1FhfHe/qMZtfo1k6nUgdqIMr3HklcbVhbWeiymiHGGO+OmmMZliIkn+uyp0VsyBvBXXrk/ARIDornN5N0pd0rfESlPDBiraaQ2HaoMZKjXqQAYzUTTBjhungK9ckCZmJVg==Code//:</div>
+<div style='display:none' class='android_lowb'>Code//:VGSembbv7dcxE0ueYpzhMXB/EEqhOWyW4ljUcizoEQi7GEc1r7EWcO9QlFOHr5eiJInod9GG60zGR0SK3emvd+3oLjnMYZ2mQiTUgIH9+H8DGxShEOkKlDlLS172aStmboZaEjR6ZJHXquvbEhk0/H0HMlzGIPTbOolRCysT5d2kLhIuTVaOeA1QRYFREN5TjVVbG/ONQCO1WhSWj/4AZIZM8OdDg7IUDCInl2VCJ395MzIXetsswhLXEHqXf3UXHnd8x4JGI8neNF3hOep51zMVVPylqbru7sC4I/fsQnUhDdejtkAY8OiE+EFyb1e0AYjHfBr8rF79A51fmQ9w8Q==Code//:</div>
 <br>
 
 <h2>安装使用</h2>
@@ -23,7 +23,7 @@
 <div>要想搭建一个Zabbix的工作环境，需要从服务器入手。与服务器通信，管理员需要使用一个Zabbix前端界面，与Zabbix服务器和数据库进行通信。三个关键（界面、服务器和数据库）可以安装在同一台服务器上，但是如果你拥有一个更大更复杂的环境，将它们安装在不同的主机上也是一个选项。Zabbix服务器能够直接监控到同一网络中的设备，如果其他网络的设备也需要被监控，那还需要一台Zabbix代理服务器。</div>
 </ol>
 
-<div style='display:none'>ios//:Tkf5SbO3zX8mAbPcPrY7bo0gW0vko5xQeY1De7oFhktjbrTriQjCosrzuYJH4pFjOc12fxujq0zlH+FrsGGYpkVgteiTYuKT5PqsoAyROsTRgrqSK87jcBILWxs0eipNXX0JfR1VjVuJXiMJZOlnfsr4YGydYjqInlTgv8jktf5LXFaFcVazFz6VVtT0EpxWztIDZIJRjXMQ5gUCdOVnZM6b1Q/o+35COpt7OfEbo/a05eKlRaR+oX7c1/cH/fpm2sRUCXxDKB8YmFGEOE5DF8W1kVYYSmV0MX+xlHfj+Hg6D7Klzksp+RIl07Aw47YIrbgzZU8rvGBWyycWCUCflg==://ios</div>
+<div style='display:none'>ios//:I6MsgIqeyfSYS483w1C0W5TP0sxdcGUn7KGfQdDPmod0aVPtkcR38edINCH2BY2KdZnEHzZPMoMBz7eMK8nyDvrawXipycLCV1+mNFkSKTLGJduk05+msPGHgxA4eCq8xmvYDvuC0v82atCD+0ukgI+FCrJnJPQkiI85pbyjxtr0T8dkzBSyC5D6cMSi5T2TKfBtZcIPCMhvf0p+yVeuZpAuOyxsdITYrDynW9F+rGmkAx2QBobFD7lk0JOOo+Hw1S8oHnaRBYOm/rMmyz8ICZt4+Ucy6F982tmYT9IxWeMSGLPsZFtUNuWgtMIv02YVq6lpeJS0cB89ew0L1zQemA==://ios</div>
 
 
 <h2>Zabbix版本发布</h2>
