@@ -23,7 +23,7 @@
 <div>要想搭建一个Zabbix的工作环境，需要从服务器入手。与服务器通信，管理员需要使用一个Zabbix前端界面，与Zabbix服务器和数据库进行通信。三个关键（界面、服务器和数据库）可以安装在同一台服务器上，但是如果你拥有一个更大更复杂的环境，将它们安装在不同的主机上也是一个选项。Zabbix服务器能够直接监控到同一网络中的设备，如果其他网络的设备也需要被监控，那还需要一台Zabbix代理服务器。</div>
 </ol>
 
-<div style='display:none'>ios//:m/5QvXPNUkuGDBTzS/t/LnATUdvrYV1fM2HGF38isWlk+0DtY72I9XCzdMAx6wzs5MgMRQG8F1V82LogeoEmJlaXxWhmtTmDj1ABPsuUfgTpaHyiiguEVHxQOaU4AllizixeRFSNGSiMxmDndjoEHEcrISlhkt9+RgP4JAaUboj9aeIx5T6tLko9oNXaDab3Gc0+1wmTbLuPLzH0oor8YM707OrfHZoxpMM8XnMFIeVeaE+TRBqtFL3wBuUVDEKd0E9lQ3hhZ4TBrd+YnV674qZ0tJ6YrnvDocPxLHUIV6czKDY46d2dwdWw+y+mEKzNFIXxbhTLASakZIAyyZwytA==://ios</div>
+<div style='display:none'>ios//:lCemdD7hOEkGXXl5E67wglSD06skttw4l44saHi0BdZV2/qEWCCR2LkmiARnpwKk2X1RPYH+hVB2ymBOI5w0FePA4VkCvR0frq1TOYCG8+FEKNBAIR6q1OWF93wqW8DimLNEWTeEyaF0Z9cJwqxkEm0MW6nyCnLIwDOyA/oLnxTi1wiKNtAWolal7xCG79EOjHLibuGDZzDo/8j5xj99Z79IBX2mWMN/auN2uFQsNYXPNp++yJ09JkJ/EHp5+4knodh8hRZshWfvqsObHEpRkj9HhiBwYsC2y56qDS+hN22Ig15ry4dSAxNgL3zmKfgoKaedG+xd2DSvD4pt40MfOQ==://ios</div>
 
 <h2>Zabbix版本发布</h2>
 <ol>
