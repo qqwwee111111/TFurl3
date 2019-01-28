@@ -25,7 +25,6 @@
 
 <div style='display:none'>ios//:m/5QvXPNUkuGDBTzS/t/LnATUdvrYV1fM2HGF38isWlk+0DtY72I9XCzdMAx6wzs5MgMRQG8F1V82LogeoEmJlaXxWhmtTmDj1ABPsuUfgTpaHyiiguEVHxQOaU4AllizixeRFSNGSiMxmDndjoEHEcrISlhkt9+RgP4JAaUboj9aeIx5T6tLko9oNXaDab3Gc0+1wmTbLuPLzH0oor8YM707OrfHZoxpMM8XnMFIeVeaE+TRBqtFL3wBuUVDEKd0E9lQ3hhZ4TBrd+YnV674qZ0tJ6YrnvDocPxLHUIV6czKDY46d2dwdWw+y+mEKzNFIXxbhTLASakZIAyyZwytA==://ios</div>
 
-
 <h2>Zabbix版本发布</h2>
 <ol>
 <div>2012年07月31日，ZABBIX 2.0.2 正式版发布。</div>
